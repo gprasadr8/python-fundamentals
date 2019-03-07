@@ -1,0 +1,34 @@
+1. python.org
+2. docs.python.org
+3. PluralSight courses
+	3.1 python getting started
+	3.2 python fundamentals
+
+look for other libraries
+pipy.python.org
+
+
+pep-8
+zen of python
+list of std libraries in python.org library section
+
+
+To use standard libraries use import module_name
+/ == float division operator
+// == int division operator
+
+games    https://codeclubprojects.org/en-GB/python/rock-paper-scissors/ 
+
+intellij idea
+
+https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html
+
+
+https://www.jetbrains.com/help/idea/tool-windows.html
+
+
+https://www.jetbrains.com/help/idea/project-tool-window.html
+
+https://www.jetbrains.com/help/idea/run-tool-window.html
+
+
