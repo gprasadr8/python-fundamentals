@@ -21,8 +21,6 @@ games    https://codeclubprojects.org/en-GB/python/rock-paper-scissors/
 
 intellij idea
 
-https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html
-
 
 https://www.jetbrains.com/help/idea/tool-windows.html
 
